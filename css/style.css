@@ -1,0 +1,191 @@
+* {
+    background-color: rgb(145, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title h1 {
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(184, 0, 0);
+    border-radius: 25px 25px 0 0;
+    padding: 5px;
+}
+
+.main {
+    width: 85%;
+    height: 100%;
+    background-color: rgb(184, 0, 0);
+    margin: 0 auto;
+    border-radius: 25px;
+    padding: 1px 25px 25px 25px;
+}
+
+h1 {
+    text-align: center;
+    text-justify: center;
+}
+
+h2 {
+    text-align: center;
+    text-justify: center;
+    background-color: transparent;
+}
+
+p {
+    text-align: center;
+    text-justify: center;
+    background-color: transparent;
+}
+
+.main img {
+    width: 50px;
+    margin: 0 auto;
+    background-color: transparent;
+}
+
+a {
+    background-color: transparent;
+    font: bold;
+    color: rgb(107, 23, 23);
+    text-decoration: dotted;
+}
+
+.lien {
+    height: 45px;
+    text-align: center;
+    background-color: black;
+    border-radius: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+}
+
+html, body {
+    margin: 5%;
+}
+
+h3 {
+    background-color: transparent;
+    text-align: center;
+    text-justify: center;
+}
+
+.h3 {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.red {
+    background-color: transparent;
+    color: rgb(255, 0, 0);
+}
+
+footer {
+    padding: 2px;
+    background-color: black;
+    color: rgba(255, 0, 0, 0.582);
+    border-radius: 10px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+img {
+    transform: scale(5);
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.img {
+    background-color: rgb(145, 0, 0);
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    border-radius: 25px;
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+}
+
+.img2 {
+    background-color: rgb(145, 0, 0);
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    border-radius: 25px;
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+}
+
+.img3 {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 105px;
+    border-radius: 25px;
+    width: 85%;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img_alone {
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    height: 300px;
+}
+
+.img_alone img {
+    width: 50px;
+    height: 50px;
+}
+
+span {
+    font-weight: bolder;
+    background-color: transparent;
+}
+
+.img4 {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 105px;
+    border-radius: 25px;
+    width: 85%;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img5 {
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 105px;
+    border-radius: 25px;
+    width: 85%;
+    height: 425px;
+    margin: 0 auto;
+    text-align: center;
+}
